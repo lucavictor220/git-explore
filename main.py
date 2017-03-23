@@ -1,1 +1,2 @@
-print 'Hello, World!'
+print 'And then goodbye'
+print 'Say, Hello!'
